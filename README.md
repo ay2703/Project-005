@@ -13,4 +13,6 @@ XGBoost Feature Select - XGBoost_Master_Lagged_C5_feature_sets.ipynb - select fe
 
 prophet_c5_q1_2026_forecast.ipynb - generate neuralprophet forecast
 
+ensemblelearningtest.ipynb - generate NGBoost Probabilistic Forecasting
+
 chronos2_dual... - chronos2 forecast and ensemble
